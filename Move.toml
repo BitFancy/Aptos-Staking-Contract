@@ -1,0 +1,23 @@
+[package]
+name = "DefiraliaStaking"
+version = "1.0.0"
+
+[addresses]
+defiralia_staking = "0xb247ddeee87e848315caf9a33b8e4c71ac53db888cb88143d62d2370cca0ead2"
+stake_emergency_admin = "0x63e39817ec41fad2e8d0713cc906a5f792e4cd2cf704f8b5fab6b2961281fa11"
+
+# Test addresses.
+treasury = "0x13"
+alice = "0x10"
+bob = "0x11"
+collection_owner = "0x12"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dependencies.AptosToken]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-token"
