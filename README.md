@@ -1,4 +1,4 @@
-<h3 align="center"><a href="https://t.me/bitfancy" target="_blank">For assist, you can contact me👈🏻</a></h3>
+<h3 align="center"><a href="https://t.me/yako_ta" target="_blank">For assist, you can contact me👈🏻</a></h3>
 # Defiralia Staking
 
 The current repository contains the first basic version of Defiralia (Staking) contracts.
@@ -24,4 +24,4 @@ Placed in [staking/](staking) module.
 
     cd staking
     aptos move test --skip-fetch-latest-git-deps
-## If you need assist, please contact me. <h3 align="center"><a href="https://t.me/bitfancy" target="_blank">here 👈🏻</a></h3>
+## If you need assist, please contact me. <h3 align="center"><a href="https://t.me/yako_ta" target="_blank">here 👈🏻</a></h3>
